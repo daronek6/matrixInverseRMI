@@ -1,8 +1,7 @@
 package projekt;
 
-public class Main {
-
+public class Client {
     public static void main(String[] args) {
-	    System.out.println("YOOOO");
+
     }
 }
